@@ -1,1 +1,1 @@
-# nu-mail-service
+# Side Project Mail-Service
